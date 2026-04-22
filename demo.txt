@@ -1,1 +1,2 @@
-This is my lab file
+This is updated content of my lab file
+File modified using terminal
